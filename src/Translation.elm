@@ -45,22 +45,22 @@ translate key lang =
                     "Vorschau"
 
                 NotLoggedIn ->
-                    "Nicht Angemeldet"
+                    "Nicht angemeldet"
 
                 ShowPassword ->
-                    "Password anzeigen"
+                    "Passwort anzeigen"
 
                 WrongUsernameOrPassword ->
-                    "Falscher Username oder falsches Password!"
+                    "Falscher Benutzername oder falsches Passwort!"
 
                 UsernameOrPasswordInvalid ->
-                    "Username muss [A-z 0-9] Länge min. 3. Password muss IBM valide und Länge min. 8"
+                    "Benutzername muss [A-z 0-9] Länge min. 3. Password muss IBM valide und Länge min. 8"
 
                 ProgressCouldGetLost ->
-                    "Fortschritt könnte währent eines Updates verlohren gehen"
+                    "Fortschritt könnte während eines Updates verloren gehen"
 
                 ProgressWillGetLost ->
-                    "Du bist nicht angemeldet und dein Fortschritt wird verlohren gehen"
+                    "Du bist nicht angemeldet und dein Fortschritt wird verloren gehen"
 
         English ->
             case key of
